@@ -1,0 +1,15 @@
+[submodule "dumpster-driver-app"]
+	path = dumpster-driver-app
+	url = https://github.com/modymok/dumpster-driver-app.git
+[submodule "dumpster-driver-pwa"]
+	path = dumpster-driver-pwa
+	url = https://github.com/modymok/dumpster-driver-pwa.git
+[submodule "dumpster-partner-portal"]
+	path = dumpster-partner-portal
+	url = https://github.com/modymok/dumpster-partner-portal.git
+[submodule "dumpster-user-app"]
+	path = dumpster-user-app
+	url = https://github.com/modymok/dumpster-user-app.git
+[submodule "dumpster-whatsapp-chatbot"]
+	path = dumpster-whatsapp-chatbot
+	url = https://github.com/modymok/dumpster-whatsapp-chatbot.git
